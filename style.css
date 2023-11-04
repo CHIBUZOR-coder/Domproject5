@@ -29,7 +29,6 @@ body {
   box-shadow: 0px 0px 40px rgba(12, 11, 11, 5);
   padding: 20px 10px;
   border: 2px solid;
-
 }
 
 .task-container{
@@ -207,10 +206,6 @@ input{
   }
 
   
-#container {
-  width: 300px;
-}
-
 .task{
     width: 300px;
 }
